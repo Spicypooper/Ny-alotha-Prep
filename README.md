@@ -3,6 +3,7 @@
 ## Raid-wide
 
 **WeakAuras**
+
 There is some overlap between all weakauras listed in this doc. Tweak them as needed. All weakauras are subject to updates. You may to check on them in the coming weeks.
 - [General Raid WA](https://wago.io/bfaraid5)
 - [Co-Tank WA](https://wago.io/cotank5) (For tanks)
@@ -111,7 +112,7 @@ Keep doing these till she dies
 
 
 ## Hivemind
-phase fight against 2 bosses. They don’t share health pool. Summon adds all fight
+1 phase fight against 2 bosses. They don’t share health pool. Summon adds all fight
 
 -   Tek’ris in control = stack bosses
 -   Ka’zir in control = spread bosses 20 yards
