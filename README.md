@@ -4,14 +4,14 @@
 
 **WeakAuras**
 There is some overlap between all weakauras listed in this doc. Tweak them as needed. All weakauras are subject to updates. You may to check on them in the coming weeks.
-[General Raid WA](https://wago.io/bfaraid5)
-[Co-Tank WA](https://wago.io/cotank5) (For tanks)
-[N'Zoth/Carapace Sanity Bars (ENTIRE RAID)](https://wago.io/94rZoHXvo) (For raid leads)
-[Sanity Bars](https://wago.io/eSFgSAQAD) (Fork of the above WA. Check out both to see what we should use) (For raid leads)
-[Anchor Interruptorder to Nameplate](https://wago.io/Rh8IFmqMl)
- - Il'gynoth (Pumping Blood) 
-- Hivemind (Mind-Numbing Toxin) 
-- Psychus (N'zoth add) (Mindwrack)
+- [General Raid WA](https://wago.io/bfaraid5)
+- [Co-Tank WA](https://wago.io/cotank5) (For tanks)
+- [N'Zoth/Carapace Sanity Bars (ENTIRE RAID)](https://wago.io/94rZoHXvo) (For raid leads)
+- [Sanity Bars](https://wago.io/eSFgSAQAD) (Fork of the above WA. Check out both to see what we should use) (For raid leads)
+- [Anchor Interruptorder to Nameplate](https://wago.io/Rh8IFmqMl)
+  * Il'gynoth (Pumping Blood) 
+  * Hivemind (Mind-Numbing Toxin) 
+  * Psychus (N'zoth add) (Mindwrack)
 
 ## Wrathion
 Back and forth between P1 and P2 till he dies
@@ -32,9 +32,9 @@ Back and forth between P1 and P2 till he dies
 -   Kill any pillars your 3 person team couldn’t
 
 **WeakAuras**
-[Wrathion N/H/Mythic Pack](https://wago.io/xVbuLvrih)
-[Incineration Assignment Helper](https://wago.io/W0IviS06_)
-[Wrathion - Active Debuffs](https://wago.io/JkeIk9TvB)
+- [Wrathion N/H/Mythic Pack](https://wago.io/xVbuLvrih)
+- [Incineration Assignment Helper](https://wago.io/W0IviS06_)
+- [Wrathion - Active Debuffs](https://wago.io/JkeIk9TvB)
 
 ## Maut
 Back and forth between P1 and P2 till he dies
@@ -58,8 +58,8 @@ Back and forth between P1 and P2 till he dies
 -   If you get small purple swirlie, move 8 yards out till it goes away
 
 **WeakAuras**
-[Maut N/H/Mythic Pack](https://wago.io/MXRY84hHE)
-[Energy/Mana Nameplate Anchors](https://wago.io/J7uzxYODS)
+- [Maut N/H/Mythic Pack](https://wago.io/MXRY84hHE)
+- [Energy/Mana Nameplate Anchors](https://wago.io/J7uzxYODS)
 
 ## Skitra
 Back and forth between normal and intermission phase. Intermission every 20% HP
@@ -81,8 +81,8 @@ Back and forth between normal and intermission phase. Intermission every 20% HP
     -   Find real one, kill real one
 
 **WeakAuras**
-[Prophet Skitra N/H/Mythic Pack](https://wago.io/c22n8QA2D)
-[Real Prophet Skitra Finder](https://wago.io/7FbZr0d2h)
+- [Prophet Skitra N/H/Mythic Pack](https://wago.io/c22n8QA2D)
+- [Real Prophet Skitra Finder](https://wago.io/7FbZr0d2h)
 
 ## Xanesh
 Soccer boss!
@@ -106,8 +106,8 @@ Soccer boss!
 Keep doing these till she dies
 
 **WeakAuras**
-[Dark Inquisitor Xanesh N/H/Mythic Pack](https://wago.io/rOsSUcIn5)
-[Dark Inquisitor - Soul Flay](https://wago.io/1R6mR7jhg)
+- [Dark Inquisitor Xanesh N/H/Mythic Pack](https://wago.io/rOsSUcIn5)
+- [Dark Inquisitor - Soul Flay](https://wago.io/1R6mR7jhg)
 
 
 ## Hivemind
@@ -126,7 +126,7 @@ phase fight against 2 bosses. They don’t share health pool. Summon adds all fi
 -   Lust on pull
 
 **WeakAuras**
-[The Hivemind N/H/Mythic Pack](https://wago.io/lENFl68dq)
+- [The Hivemind N/H/Mythic Pack](https://wago.io/lENFl68dq)
 
 ## Shad'har
 3 phase fight against a 2 headed doggo
@@ -157,9 +157,9 @@ phase fight against 2 bosses. They don’t share health pool. Summon adds all fi
 -   Enrages at 30%, increasing damage done 25%
 
 **WeakAuras**
-[Shad'har N/H/Mythic Pack](https://wago.io/j38W8aq2Q)
-[Shad'har Tasty Morsel Helper (Mythic)](https://wago.io/DG_0R1kPA)
-[Slimy Residue Tracker (Mythic)](https://wago.io/2FemdGe8f)
+- [Shad'har N/H/Mythic Pack](https://wago.io/j38W8aq2Q)
+- [Shad'har Tasty Morsel Helper (Mythic)](https://wago.io/DG_0R1kPA)
+- [Slimy Residue Tracker (Mythic)](https://wago.io/2FemdGe8f)
 
 ## Drest'agath
 One phase encounter against a giant tentacle and her smaller tentacle adds
@@ -187,7 +187,7 @@ One phase encounter against a giant tentacle and her smaller tentacle adds
 Rotate through killing adds & boss 3-4 times and kill her
 
 **WeakAuras**
-[Drest'agath N/H/Mythic pack](https://wago.io/9OSdgRtEU)
+- [Drest'agath N/H/Mythic pack](https://wago.io/9OSdgRtEU)
 
 ## Il'gynoth
 2 phase encounter. P1 you fight Il’gynoth, P2 you kill organs. Killing 1 organ moves you back to P1. Need to kill all 3 organs to win
@@ -208,7 +208,7 @@ Rotate through killing adds & boss 3-4 times and kill her
     -   Blood goop adds need to be slowed and killed
 
 **WeakAuras**
-[Il'gynoth Dispel Helper (Cursed Blood) - MYTHIC](https://wago.io/kskDTXlmH)
+- [Il'gynoth Dispel Helper (Cursed Blood) - MYTHIC](https://wago.io/kskDTXlmH)
 
 ## Vexiona
 3 phase fight. Alternates between P1 and P2 until boss reaches 40%, then goes into P3.
@@ -246,7 +246,7 @@ Repeat P1 and P2 until boss hits 40%
 -   Have 5+ people stack on tank when Desolation goes out
 
 **WeakAuras**
-[Vexiona N/H/Mythic Pack](https://wago.io/WYukIKPIS)
+- [Vexiona N/H/Mythic Pack](https://wago.io/WYukIKPIS)
 
 ## Ra-Den
 2 phase fight. P2 starts at 40% hp
@@ -277,9 +277,9 @@ Repeat P1 and P2 until boss hits 40%
 -   Keep tanks around half health this phase, so the DoT from Decaying Strike doesn’t wreck them
 
 **WeakAuras**
-[Anchors Unclaimed Void/Vita/Nightmare duration to Orb](https://wago.io/837Nu4PuP)
-[Unstable Vita Assignment Helper](https://wago.io/uc-_b8u8Q)
-[Next Orb-To-Kill Announcer](https://wago.io/cz5u7_JBo)
+- [Anchors Unclaimed Void/Vita/Nightmare duration to Orb](https://wago.io/837Nu4PuP)
+- [Unstable Vita Assignment Helper](https://wago.io/uc-_b8u8Q)
+- [Next Orb-To-Kill Announcer](https://wago.io/cz5u7_JBo)
 
 ## Carapace
 **TODO**
@@ -290,6 +290,3 @@ Repeat P1 and P2 until boss hits 40%
 **TODO**
 
 **WeakAuras**
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDIyNzE1MV19
--->
