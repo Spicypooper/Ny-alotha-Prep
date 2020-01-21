@@ -4,7 +4,7 @@
 
 **WeakAuras**
 
-There is some overlap between all weakauras listed in this doc. Tweak them as needed. All weakauras are subject to updates. You may to check on them in the coming weeks.
+There is some overlap between all weakauras listed in this doc. Tweak them as needed. All weakauras are subject to updates. You may need to check on them in the coming weeks.
 - [General Raid WA](https://wago.io/bfaraid5)
 - [Co-Tank WA](https://wago.io/cotank5) (For tanks)
 - [N'Zoth/Carapace Sanity Bars (ENTIRE RAID)](https://wago.io/94rZoHXvo) (For raid leads)
